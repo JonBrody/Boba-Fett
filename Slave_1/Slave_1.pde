@@ -1,0 +1,41 @@
+void setup(){
+  size(1000,800);
+  background(173,500,59);
+}
+void draw(){
+  ellipse(700,100,100,100);
+  ellipse(600,100,100,100);;
+  ellipse(500,100,100,100);
+  ellipse(400,100,100,100);
+  ellipse(300,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(200,100,100,100);
+  ellipse(100,200,100,100);
+  ellipse(100,300,100,100);
+  ellipse(100,400,100,100);
+  ellipse(100,500,100,100);
+  ellipse(100,600,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,700,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  ellipse(100,100,100,100);
+  if(mousePressed){
+  fill(random(256),random(123),random(472));
+}
+else{
+  fill(124,12,12);
+}
+}
